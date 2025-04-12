@@ -1,6 +1,7 @@
 # Job Market Analysis Using Python
 
 **By Jannath Syed**
+**Ph: 551-755-0189**
 
 This project analyzes over 22,000 U.S. job listings to uncover trends in job titles and sectors using Python, Excel, and Google Colab.
 
